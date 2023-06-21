@@ -1,0 +1,320 @@
+Uri: https://intel-password-checker.com/?rid=7eT1pwn
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\index.htm
+Content Type: text/html
+
+Uri: https://web.archive.org/web/20130629235047im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/lock-illustration.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130629235047im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\lock-illustration.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20130802201856/http://home.mcafee.com/advicecenter/?id=ad_sos_tfsp&affid=0&culture=en-us&cid=120028
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130802201856\http\home.mcafee.com\advicecenter\index.htm
+Content Type: application/xhtml+xml
+
+Uri: https://web.archive.org/web/20130821043210cs_/https://www-ssl.intel.com/etc/designs/intel/us/en/css/intel.main.override.css
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821043210cs_\https\www-ssl.intel.com\etc\designs\intel\us\en\css\intel.main.override.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20130821043213js_/https://www-ssl.intel.com/content/www/_jcr_content/analytics.sitecatalyst.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821043213js_\https\www-ssl.intel.com\content\www\_jcr_content\analytics.sitecatalyst.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20130821043217im_/https://www-ssl.intel.com/content/dam/www/global/icons/social/facebook-hover.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821043217im_\https\www-ssl.intel.com\content\dam\www\global\icons\social\facebook-hover.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20130821043217im_/https://www-ssl.intel.com/content/dam/www/global/icons/social/facebook.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821043217im_\https\www-ssl.intel.com\content\dam\www\global\icons\social\facebook.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20130821043217im_/https://www-ssl.intel.com/content/dam/www/global/icons/social/twitter-hover.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821043217im_\https\www-ssl.intel.com\content\dam\www\global\icons\social\twitter-hover.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20130821043217im_/https://www-ssl.intel.com/content/dam/www/global/icons/social/twitter.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821043217im_\https\www-ssl.intel.com\content\dam\www\global\icons\social\twitter.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20130821120935cs_/http://fast.fonts.com/t/1.css?apiType=css&projectid=75738e54-c2a7-470f-99bb-8f1e8ffb49a2
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130821120935cs_\http\fast.fonts.com\t\1.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20130822005130js_/http://platform.twitter.com/widgets.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130822005130js_\http\platform.twitter.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20130822005546js_/http://connect.facebook.net/en_US/all.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20130822005546js_\http\connect.facebook.net\en_US\all.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131211212637im_/https://www-ssl.intel.com/content/dam/intel/dm/image/logo.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131211212637im_\https\www-ssl.intel.com\content\dam\intel\dm\image\logo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214191712im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/animations/ultrabook-security-video.wmv.rendition.cq5dam.thumbnail.140.100.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214191712im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\animations\ultrabook-security-video.wmv.rendition.cq5dam.thumbnail.140.100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214192328js_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.10.27/intel/us/en/js/json2.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214192328js_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.10.27\intel\us\en\js\json2.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131214192638im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/promotions/passwordwin-challenge.mov.rendition.cq5dam.thumbnail.140.100.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214192638im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\promotions\passwordwin-challenge.mov.rendition.cq5dam.thumbnail.140.100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214192807im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/marketing-briefs/lost-device-dance.mp4.rendition.cq5dam.thumbnail.190.107.jpg
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214192807im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\marketing-briefs\lost-device-dance.mp4.rendition.cq5dam.thumbnail.190.107.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20131214192914im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/arrow_down_blue.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214192914im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\arrow_down_blue.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214193856im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/printlogo.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214193856im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\printlogo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214195925im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/default/favicon.ico
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214195925im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\default\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/web/20131214202539js_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.5.22/intel/us/en/js/mobileredirect.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214202539js_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.5.22\intel\us\en\js\mobileredirect.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131214202731im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/carouselRight.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214202731im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\carouselRight.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214203811im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/close.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214203811im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\close.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214204352im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/carouselLeft.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214204352im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\carouselLeft.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214211316im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/carouselLeftLarge.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214211316im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\carouselLeftLarge.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214211506im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/blank.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214211506im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\blank.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214212822js_/https://www-ssl.intel.com/etc/clientlibs/ver/4.2.19/foundation/librarymanager.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214212822js_\https\www-ssl.intel.com\etc\clientlibs\ver\4.2.19\foundation\librarymanager.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131214213327im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/carouselRightLarge.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214213327im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\carouselRightLarge.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131214213357im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19/intel/us/en/images/arrow_up_blue.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131214213357im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19\intel\us\en\images\arrow_up_blue.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219011441im_/https://www-ssl.intel.com/content/dam/video/promotion/enterprise-security-intel-anti-theft-how-it-works-promotion.mp4.rendition.cq5dam.thumbnail.190.107.jpg
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219011441im_\https\www-ssl.intel.com\content\dam\video\promotion\enterprise-security-intel-anti-theft-how-it-works-promotion.mp4.rendition.cq5dam.thumbnail.190.107.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20131219011555im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/promotions/anti-theft-consumer-mistaken-laptop-video.mp4.rendition.cq5dam.thumbnail.190.107.jpg
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219011555im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\promotions\anti-theft-consumer-mistaken-laptop-video.mp4.rendition.cq5dam.thumbnail.190.107.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20131219011644cs_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/css/site-global.css
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219011644cs_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\css\site-global.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20131219011811im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/technology-briefs/intel-labs-thom-sawicki-40th-anniversary-video.mp4.rendition.cq5dam.thumbnail.140.100.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219011811im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\technology-briefs\intel-labs-thom-sawicki-40th-anniversary-video.mp4.rendition.cq5dam.thumbnail.140.100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219011933js_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/clientlibs/footer-libs.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219011933js_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\clientlibs\footer-libs.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131219012059im_/https://www-ssl.intel.com/content/dam/www/public/us/en/audio/podcasts/inside-it-cyber-threat-information-podcast.mp4.rendition.cq5dam.thumbnail.140.100.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012059im_\https\www-ssl.intel.com\content\dam\www\public\us\en\audio\podcasts\inside-it-cyber-threat-information-podcast.mp4.rendition.cq5dam.thumbnail.140.100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012102js_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/js/password.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012102js_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\js\password.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131219012135im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/hackableuncrackable-header.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012135im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\hackableuncrackable-header.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012217im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/facebook-share-button.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012217im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\facebook-share-button.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012247im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/web-diversify.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012247im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\web-diversify.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012356im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/u1268-17-r.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012356im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\u1268-17-r.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012405im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/challenge-your-friends-flag.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012405im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\challenge-your-friends-flag.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012608im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/technology-briefs/mobile-security-use-it-or-lose-it-video.mp4.rendition.cq5dam.thumbnail.140.100.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012608im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\technology-briefs\mobile-security-use-it-or-lose-it-video.mp4.rendition.cq5dam.thumbnail.140.100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012655cs_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/css/master-a-master.css
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012655cs_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\css\master-a-master.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20131219012701im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/u1268-17-m.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012701im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\u1268-17-m.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219012904cs_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/css/your-grade-phase-1.css
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012904cs_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\css\your-grade-phase-1.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20131219012957im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/sweepstakes-winners-flag.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219012957im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\sweepstakes-winners-flag.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219013027im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/u1268-17-fs.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013027im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\u1268-17-fs.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219013031im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/mcafeelogo.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013031im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\mcafeelogo.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219013032js_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/js/jquery-1.8.3.min.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013032js_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\js\jquery-1.8.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20131219013210im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/grey-horiz-top.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013210im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\grey-horiz-top.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219013218im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/web-pledge-new.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013218im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\web-pledge-new.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219013306im_/https://www-ssl.intel.com/content/dam/www/public/us/en/videos/technology-briefs/newegg-tv-intel-anti-theft-technology-for-ultrabooks-video.mp4.rendition.cq5dam.thumbnail.140.100.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013306im_\https\www-ssl.intel.com\content\dam\www\public\us\en\videos\technology-briefs\newegg-tv-intel-anti-theft-technology-for-ultrabooks-video.mp4.rendition.cq5dam.thumb.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20131219013323im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/pasted-image-243x181.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20131219013323im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\pasted-image-243x181.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140504090258im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/u1268-17.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20140504090258im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\u1268-17.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140729124101im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/u1307-grad.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20140729124101im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\u1307-grad.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140729124101im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/web-1-for-the-money.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20140729124101im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\web-1-for-the-money.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20140729124101im_/https://www-ssl.intel.com/content/dam/www/public/us/en/apps/password-security-toolkit/images/web-anatomy-of-a-password.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20140729124101im_\https\www-ssl.intel.com\content\dam\www\public\us\en\apps\password-security-toolkit\images\web-anatomy-of-a-password.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185604cs_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/clientlibs/header-libs.css
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185604cs_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\clientlibs\header-libs.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20171002185606js_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/clientlibs/header-libs.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185606js_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\clientlibs\header-libs.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20171002185619im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/arrow_down.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185619im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\arrow_down.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185619im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/bg-search-bar.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185619im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\bg-search-bar.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185619im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/blue-header-carat.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185619im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\blue-header-carat.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185619im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/homepage-sprites.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185619im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\homepage-sprites.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185619im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/lock_lock_16px.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185619im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\lock_lock_16px.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185623im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/bg-footer.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185623im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\bg-footer.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185632im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/right-arrow.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185632im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\right-arrow.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185632im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/sidebar-shadow_repeat-y.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185632im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\sidebar-shadow_repeat-y.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185633im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/carouselDot.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185633im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\carouselDot.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185633im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/sidebar-shadow_btm.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185633im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\sidebar-shadow_btm.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185633im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/sidebar-shadow_top.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185633im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\sidebar-shadow_top.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185634im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/video-play-icon.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185634im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\video-play-icon.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002185637im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/flags_it.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002185637im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\flags_it.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002203139im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/sidebar-arrow.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002203139im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\sidebar-arrow.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002204732im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/new-menu-background.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002204732im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\new-menu-background.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002204754im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/arrow_up.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002204754im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\arrow_up.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171002222019im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/bg-footer-language.gif
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002222019im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\bg-footer-language.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20171002223837im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/carouselDot_hover.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171002223837im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\carouselDot_hover.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20171003195358js_/https://www-ssl.intel.com/etc/clientlibs/ver/4.2.19/foundation/jquery.js
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171003195358js_\https\www-ssl.intel.com\etc\clientlibs\ver\4.2.19\foundation\jquery.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20171003195403im_/https://www-ssl.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/logo@2x.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20171003195403im_\https\www-ssl.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\logo@2x.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20180113200241im_/https://www.intel.com/etc/designs/ver/4.2.19.8.13/intel/us/en/images/share-icons.png
+File Name: C:\Users\ruche\Downloads\_Data\MNP\CoT\aa\intel-password-checker.com\web\20180113200241im_\https\www.intel.com\etc\designs\ver\4.2.19.8.13\intel\us\en\images\share-icons.png
+Content Type: image/png
+
